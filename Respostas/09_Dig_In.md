@@ -7,9 +7,7 @@
 #define LED BIT0
 #define ACENDE_LED (P1OUT |= LED)
 #define APAGA_LED (P1OUT &= ~LED)
-/**
- * main.c
- */
+
 
 int Debounce();
 void espera_ms(int tempo);
@@ -30,6 +28,7 @@ int main(void)
 
 //A função retornará o valor 1 se o boão estiver em nível lógico alto
 //Ou a função retornará 0 se o botão estiver em nível lógico baixo
+
 int Debounce()
 {
     if((P1IN & BTN)==0)
