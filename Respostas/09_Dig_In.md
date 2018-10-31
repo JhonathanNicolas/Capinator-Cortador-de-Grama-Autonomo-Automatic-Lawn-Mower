@@ -1,6 +1,4 @@
 
-// Escreva uma função em C que faz o debounce de botões ligados à porta P1.--------------------------------
-
 
 #include <msp430.h> 
 #define BTN BIT3
@@ -26,8 +24,6 @@ int main(void)
 }
 
 
-//A função retornará o valor 1 se o boão estiver em nível lógico alto
-//Ou a função retornará 0 se o botão estiver em nível lógico baixo
 
 int Debounce()
 {
@@ -41,7 +37,6 @@ int Debounce()
     return 0;
 }
 
-// A função ultiliza o timerA para esperar milisegundos conforme o valor da variável tempo
 void espera_ms(int tempo)
 {
     TACCR0 = 1000-1; // Preenche esse registador com um mutiplo de 10
@@ -55,5 +50,4 @@ void espera_ms(int tempo)
    TACTL = TACLR;
 
 }
-//---------------------------------------------------------------------------------------------------------------------------------
 
