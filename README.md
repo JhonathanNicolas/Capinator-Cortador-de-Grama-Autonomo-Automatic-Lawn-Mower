@@ -16,6 +16,7 @@ A automação de tarefas manuais está cada vez mais em voga e é um assunto que
 *Aviso Legal: Esse projeto apresenta somente fins educacionais e não foi desenvolvido para fins comerciais ou industriais.*
 
 Hardware
+
 MSP430G2553 Controlador utilizado.
 
 4 x Sensor ultrassônico hc-sr04 - Sensor Ultrassônico ultilizado para detecção de obstáculos.
@@ -29,11 +30,18 @@ Code Composer Studio - IDE utilizada para o desenvolvimento do projeto.
 1 X Bateria de Lítio 11.1V/3A - Para a autonomia do projeto.
 
 Autores:
+
 Jhonathan Nicolas - JhonathanNicolas
+
 Misael Andrade-  MisaelAndrade
+
 Agradecimentos:
+
 Prof. Diogo Caetano - DiogoCaetanoGarcia
+
 Misael Andrade-  MisaelAndrade
+
+
 
 ---English
 Embedded Electronics
@@ -49,14 +57,25 @@ As a final project for the discipline, a robot was developed that is autonomousl
 Hardware.*
 
 MSP430G2553 Controller used.
+
 4 x Ultrasonic Sensor hc-sr04 - Used Ultrasonic Sensor for Obstacle Detection.
+
 1 X Relay Module - For Cutting Motor Control.
+
 1 X Motor Shield- L298N - H-Motor Shield for the control of traction motors.
+
 Code Composer Studio - IDE used for project development.
+
 1 X 11.1V / 3A Lithium Battery - For project autonomy.
+
 Authors:
+
 Jhonathan Nicolas - JhonathanNicolas
+
 Misael Andrade- MisaelAndrade
+
 Thanks:
+
 Prof. Diogo Caetano - DiogoCaetanoGarcia
+
 Misael Andrade- MisaelAndrade
