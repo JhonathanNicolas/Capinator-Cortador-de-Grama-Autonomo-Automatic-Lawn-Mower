@@ -1,7 +1,7 @@
 # Eletrônica Embarcada
 
 
---Portuguese
+*Portuguese
 
 Eletrônica Embarcada
 Repositório da disciplina Eletrônica Embarcada, do curso de Engenharia Eletrônica da UnB, campus Gama.
@@ -43,7 +43,10 @@ Misael Andrade-  MisaelAndrade
 
 
 
----English
+
+
+
+*English
 
 # Embedded Electronics
 
