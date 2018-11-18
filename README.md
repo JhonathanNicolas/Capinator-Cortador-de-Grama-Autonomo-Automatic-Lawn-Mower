@@ -15,7 +15,7 @@ A automação de tarefas manuais está cada vez mais em voga e é um assunto que
 
 *Aviso Legal: Esse projeto apresenta somente fins educacionais e não foi desenvolvido para fins comerciais ou industriais.*
 
-Hardware
+# Hardware
 
 MSP430G2553 Controlador utilizado.
 
@@ -29,13 +29,13 @@ Code Composer Studio - IDE utilizada para o desenvolvimento do projeto.
 
 1 X Bateria de Lítio 11.1V/3A - Para a autonomia do projeto.
 
-Autores:
+# Autores:
 
 Jhonathan Nicolas - JhonathanNicolas
 
 Misael Andrade-  MisaelAndrade
 
-Agradecimentos:
+# Agradecimentos:
 
 Prof. Diogo Caetano - DiogoCaetanoGarcia
 
@@ -45,7 +45,7 @@ Misael Andrade-  MisaelAndrade
 
 ---English
 
-#Embedded Electronics
+# Embedded Electronics
 
 Repository of the Electronic discipline Embarked, from the Electronic Engineering course of UnB, Gama campus.
 
@@ -70,14 +70,14 @@ Code Composer Studio - IDE used for project development.
 
 1 X 11.1V / 3A Lithium Battery - For project autonomy.
 
-Authors:
+# Authors:
 
-Jhonathan Nicolas - JhonathanNicolas
+Jhonathan Nicolas - [JhonathanNicolas](https://github.com/JhonathanNicolas)
 
-Misael Andrade- MisaelAndrade
+Misael Andrade- [MisaelAndrade](https://github.com/MisaelAndrade)
 
-Thanks:
+# Thanks:
 
-Prof. Diogo Caetano - DiogoCaetanoGarcia
+Prof. Diogo Caetano - [DiogoCaetanoGarcia](https://github.com/DiogoCaetanoGarcia)
 
-Misael Andrade- MisaelAndrade
+Misael Andrade- [MisaelAndrade](https://github.com/MisaelAndrade)
