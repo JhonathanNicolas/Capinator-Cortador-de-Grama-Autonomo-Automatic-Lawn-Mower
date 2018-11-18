@@ -17,10 +17,15 @@ A automação de tarefas manuais está cada vez mais em voga e é um assunto que
 
 Hardware
 MSP430G2553 Controlador utilizado.
+
 4 x Sensor ultrassônico hc-sr04 - Sensor Ultrassônico ultilizado para detecção de obstáculos.
+
 1 X Módulo relé- Para o Controle do Motor de corte.
+
 1 X Ponte H L298N - Ponte H para o controle dos motores de tração.
+
 Code Composer Studio - IDE utilizada para o desenvolvimento do projeto.
+
 1 X Bateria de Lítio 11.1V/3A - Para a autonomia do projeto.
 
 Autores:
