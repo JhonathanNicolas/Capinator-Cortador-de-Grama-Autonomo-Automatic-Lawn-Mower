@@ -1,5 +1,7 @@
 # Eletrônica Embarcada
 
+
+--Portuguese--------------------------------------------------------------
 Eletrônica Embarcada
 Repositório da disciplina Eletrônica Embarcada, do curso de Engenharia Eletrônica da UnB, campus Gama.
 
@@ -9,16 +11,16 @@ Professor: Diogo Caetano Garcia
 Projeto Final - Desenvolvimento de um robô cortador de Grama autônomo Microcontrolado, nomeado Capinator 
 Como projeto final para a disciplina foi desenvolvido um robô que de forma autônoma é capaz de cortar a grama de uma área limitada desviando de qualquer obstáculo utilizando um microcontrolador MSP430 com o objetivo de aprofundar os conhecimentos obtidos e automatizar um trabalho manual que pode inferir riscos a saúde humana, além disso é capaz de proporcionar conforto aos usuários e com uma ótima rentabilidade 
 A automação de tarefas manuais está cada vez mais em voga e é um assunto que precisa ser refletido, neste projeto foi observado que existem diversos casos de pessoas que sofreram lesões graves ao se expor na tarefa de cortar grama, seja lesões causadas diretamente pelo cortador ou indiretamente como é o caso de detritos que são arremesados em direção ao usuário ou até mesmo como já houve acertando uma coméia de abelhas.
+
 Aviso Legal: Esse projeto apresenta somente fins educacionais e não foi desenvolvido para fins comerciais ou industriais.
 
-Disclaimer: The project is only for educational purposes and it is not meant for medical uses.
 
 Hardware
 MSP430G2553 Controlador utilizado.
 4 x Sensor ultrassônico hc-sr04 - Sensor Ultrassônico ultilizado para detecção de obstáculos
 Software
 1 X Módulo relé- Para o Controle do Motor de corte
-1 X Ponte H L298N - Ponto H para o controle dos motores de tração
+1 X Ponte H L298N - Ponte H para o controle dos motores de tração
 Code Composer Studio - IDE utilizada para o desenvolvimento do projeto.
 1 X Bateria de Lítio 11.1V/3A - Para a autonomia do projeto
 Autores
@@ -27,3 +29,30 @@ Misael Andrade-  MisaelAndrade
 Agradecimentos
 Prof. Diogo Caetano - DiogoCaetanoGarcia
 Misael Andrade-  MisaelAndrade
+------------------------------------------------------------------------------------------------------------------------------------
+
+---English---------------------------------------------------------------------------------------------------------------------------
+Embedded Electronics
+Repository of the Electronic discipline Embarked, from the Electronic Engineering course of UnB, Gama campus.
+
+Discipline: https://matriculaweb.unb.br/graduacao/disciplina.aspx?cod=120871
+Teacher: Diogo Caetano Garcia
+
+Final Project - Development of a Microcontrolled Autonomous Grass Cutting Robot, named Capinator
+As a final project for the discipline was developed a robot that autonomously is able to cut the grass of a limited area bypassing any obstacle using an MSP430 microcontroller in order to deepen the knowledge obtained and automate a manual work that can infer risks to human health, in addition it is able to provide comfort to the users and with a great profitability
+The automation of manual tasks is increasingly in vogue and is a subject that needs to be reflected in this project. It was observed that there are several cases of people who have suffered serious injuries when exposed in the task of mowing grass, whether injuries caused directly by the cutter or indirectly as is the case of debris that are rolled towards the user or even as it has been hitting a bee eat.
+
+Disclaimer: This project is for educational purposes only and has not been developed for commercial or industrial purposes.
+Hardware
+MSP430G2553 Controller used.
+4 x Ultrasonic Sensor hc-sr04 - Used Ultrasonic Sensor for Obstacle Detection
+1 X Relay Module - For Cutting Motor Control
+1 X Motor Shield- L298N - H-Motor Shield for the control of traction motors
+Code Composer Studio - IDE used for project development.
+1 X 11.1V / 3A Lithium Battery - For project autonomy
+Authors
+Jhonathan Nicolas - JhonathanNicolas
+Misael Andrade- MisaelAndrade
+Thanks
+Prof. Diogo Caetano - DiogoCaetanoGarcia
+Misael Andrade- MisaelAndrade
