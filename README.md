@@ -33,15 +33,15 @@ Code Composer Studio - IDE utilizada para o desenvolvimento do projeto.
 
 # Autores:
 
-Jhonathan Nicolas - JhonathanNicolas
+Jhonathan Nicolas - [JhonathanNicolas](https://github.com/JhonathanNicolas)
 
-Misael Andrade-  MisaelAndrade
+Misael Andrade- [MisaelAndrade](https://github.com/MisaelAndrade)
 
 # Agradecimentos:
 
-Prof. Diogo Caetano - DiogoCaetanoGarcia
+Prof. Diogo Caetano - [DiogoCaetanoGarcia](https://github.com/DiogoCaetanoGarcia)
 
-Misael Andrade-  MisaelAndrade
+Misael Andrade- [MisaelAndrade](https://github.com/MisaelAndrade) 
 
 
 ![fotos 1](https://user-images.githubusercontent.com/29981082/48746238-c964c580-ec55-11e8-9d5b-533f8f648260.jpeg)
