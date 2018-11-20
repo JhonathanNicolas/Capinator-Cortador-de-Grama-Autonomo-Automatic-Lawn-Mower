@@ -42,8 +42,7 @@ Prof. Diogo Caetano - DiogoCaetanoGarcia
 Misael Andrade-  MisaelAndrade
 
 
-![Alt Text](Eletronica-Embarcada-Jhonathan-Nicolas-M.-Silva-160031621/Trabalho/Fotos/fotos (1).jpeg)
-
+![fotos 1](https://user-images.githubusercontent.com/29981082/48746238-c964c580-ec55-11e8-9d5b-533f8f648260.jpeg)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
