@@ -46,7 +46,8 @@ Prof. Diogo Caetano - [DiogoCaetanoGarcia](https://github.com/DiogoCaetanoGarcia
 Misael Andrade- [MisaelAndrade](https://github.com/MisaelAndrade) 
 
 
-![fotos 1](https://user-images.githubusercontent.com/29981082/48746238-c964c580-ec55-11e8-9d5b-533f8f648260.jpeg)
+![6](https://user-images.githubusercontent.com/29981082/49261662-464c2800-f42a-11e8-8055-cd8225c8763f.jpg)
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
