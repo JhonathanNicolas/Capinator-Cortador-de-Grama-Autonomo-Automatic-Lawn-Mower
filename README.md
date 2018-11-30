@@ -70,8 +70,8 @@ Final Project - Development of a Microcontrolled Autonomous Grass Cutting Robot,
 As a final project for the discipline, a robot was developed that is autonomously able to cut the grass of a limited area bypassing any obstacle using an MSP430 microcontroller in order to deepen the obtained knowledge and automate a manual work that can infer risks to human health, Beyond addition, it is able to provide comfort to the users and with great profitability. The automation of manual tasks is increasingly in vogue and is a subject that needs to be reflected in this project. It was observed that there are several cases of people who suffered serious injuries when exposed to the task of mowing grass, whether they are injuries caused directly by the cutter or indirectly, as in the case of debris that are thrown at the user.
 
 *Disclaimer: This project is for educational purposes only and has not been developed for commercial or industrial purposes.
-Hardware.*
-
+.*
+# Hardware
 MSP430G2553 Controller used.
 
 4 x Ultrasonic Sensor hc-sr04 - Used Ultrasonic Sensor for Obstacle Detection.
