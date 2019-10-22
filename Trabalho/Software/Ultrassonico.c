@@ -1,10 +1,12 @@
 
-//           T
-
 #include <msp430g2553.h>
-
+#define BIT0 MOTORA
+#define BIT1 MOTORB
+#define MOTORES (MOTORA | MOTORB)
+#define LIGA_MOTORES (P1OUT |= MOTORES)
+#define DESLIGA_MOTORES (P1OUT &= ~MOTORES)
 #define BTN BIT3
-#define RX BIT1
+#define RX BIT1//
 #define TX BIT2
 #define LED BIT6
 #define trigger BIT5
@@ -59,11 +61,17 @@ int main(void)
             __delay_cycles(30000);          // delay for 30ms (after this time echo times out if there is no object detected)
             distance = sensor/58;           // converting ECHO lenght into cm
                P1OUT ^= LED;  //turning LED on if distance is less than 20cm and if distance isn't 0
-                Send_String("Dist‚ncia: ");
+                Send_String("Dist√¢ncia: ");
                 Send_Int(distance);
                 Send_String("cm\n");
             __delay_cycles(10000);
                 P1OUT ^= LED;
+                if(ditance < 30)
+                {
+                    DESLIGA_MOTORES;
+                }
+                else
+                    LIGA_MOTORES;
     }
 
 }
